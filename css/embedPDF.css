@@ -5,7 +5,7 @@ body {
 .container {
     width: 100%;
     height: 100vh;
-    background: green;
+    /* background: green; */
     text-align: center;
     font-size: 30px;
     font-family: monospace;
@@ -18,4 +18,5 @@ p {
 .pdf-window {
     width: 90%;
     height: 80vh;
+    border-radius: 10px;
 }
